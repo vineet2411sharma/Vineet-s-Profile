@@ -1,6 +1,6 @@
 <!-- [![hello][banner]][github-repo] -->
 
-<h1 align="center">👋 Hello World, I'm Vineet Kuamr Sharmal</h1>
+<h1 align="center">👋 Hello World, I'm Vineet Kuamr Sharma</h1>
 
 <div align="center">
 
