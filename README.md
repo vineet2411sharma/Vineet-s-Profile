@@ -20,8 +20,6 @@
 <img alt="NodeJS" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />&nbsp;
 <img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />&nbsp;
 <img alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>&nbsp;
-<img alt="Android Development" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />&nbsp;
-<img alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />&nbsp;
 <img alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />&nbsp;
 <img alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />&nbsp;
 <img alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />&nbsp;
@@ -42,10 +40,6 @@
 
 
 </div>
-
-* My Portfoilio - [<img src="https://img.icons8.com/fluent/24/000000/link.png"/>](https://vineetsharma.me)
-
-<br>
 
 ## 🌱 I'm Currently Learning -
 
