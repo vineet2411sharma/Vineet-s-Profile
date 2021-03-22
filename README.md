@@ -8,10 +8,9 @@
 
 <!-- ## Connect With Me 👇 -->
 
-[<img alt="sparshagarwal.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]&nbsp;&nbsp;&nbsp;
-[<img  alt="i-sparshagarwal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;&nbsp;
-[<img  alt="sparshaga25@gmail.com | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]&nbsp;&nbsp;&nbsp;
-[<img  alt="Dev.to | Blog" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][blog]
+[<img alt="vineetsharma.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]&nbsp;&nbsp;&nbsp;
+[<img  alt="vineet-sharma-627b8a195 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;&nbsp;
+[<img  alt="sharma24vineet@gmail.com | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]&nbsp;&nbsp;&nbsp;
 
 <br>
 
