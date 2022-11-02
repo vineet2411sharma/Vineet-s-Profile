@@ -19,9 +19,9 @@
   
   
   
-<img src="https://img.icons8.com/color-glass/48/000000/solidity.png"/>
-<img src="https://img.icons8.com/color/48/000000/ethereum.png"/>
-<img src="https://img.icons8.com/external-black-fill-lafs/64/000000/external-Polygon-cryptocurrency-black-fill-lafs.png"/>
+<img width="26px" src="https://img.icons8.com/color-glass/48/000000/solidity.png"/>
+<img width="26px" src="https://img.icons8.com/color/48/000000/ethereum.png"/>
+<img width="26px" src="https://img.icons8.com/external-black-fill-lafs/64/000000/external-Polygon-cryptocurrency-black-fill-lafs.png"/>
 <img alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />&nbsp;
 <img alt="NodeJS" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />&nbsp;
 <img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />&nbsp;
