@@ -52,11 +52,17 @@
 ## 👨🏽‍💻 Previous Internship -
 
 - Full Stack Development Intern (Full-time)
--Admin Dashboard Software for Organization Connect, an Enterprise connect platform that combines independent modules to allow enterprises to manage the --core functions of connecting applications.
--Role:
--Prototype Design: Design mockup & prototype for Admin Dashboard.
--Frontend: Developed & managed the frontend side of the codebase using ReactJS, Typescript, and Material UI.
--Firebase: Manage the firebase dashboard of the project.
+<br>
+
+Admin Dashboard Software for Organization Connect, an Enterprise connect platform that combines independent modules to allow enterprises to manage the --core functions of connecting applications.
+<br>
+Role:
+<br>
+Prototype Design: Design mockup & prototype for Admin Dashboard.
+<br>
+Frontend: Developed & managed the frontend side of the codebase using ReactJS, Typescript, and Material UI.
+<br>
+Firebase: Manage the firebase dashboard of the project.
 
 
 <br>
