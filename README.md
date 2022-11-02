@@ -43,16 +43,21 @@
 
 ## 🌱 I'm Currently Learning -
 
-- Web Development
-- React
+- Solidity
+- Rust
+- Working of EVM
 
 <br>
 
-## 👨🏽‍💻 I'm Looking for -
+## 👨🏽‍💻 Previous Internship -
 
-- Internship in React Development (Preferred)
-- Internship in Web Development
-- Internship in Software Development
+- Full Stack Development Intern (Full-time)
+-Admin Dashboard Software for Organization Connect, an Enterprise connect platform that combines independent modules to allow enterprises to manage the --core functions of connecting applications.
+-Role:
+-Prototype Design: Design mockup & prototype for Admin Dashboard.
+-Frontend: Developed & managed the frontend side of the codebase using ReactJS, Typescript, and Material UI.
+-Firebase: Manage the firebase dashboard of the project.
+
 
 <br>
 
